@@ -1,0 +1,19 @@
+{
+  "name": "z4yed/reading-time",
+  "description": "Estimate reading time for a block of text.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "z4yed\\ReadingTime\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Zayed Hassan",
+      "email": "54860522+z4yed@users.noreply.github.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
