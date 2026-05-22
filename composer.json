@@ -14,6 +14,16 @@
       "email": "54860522+z4yed@users.noreply.github.com"
     }
   ],
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Z4yed\\ReadingTime\\ReadingTimeServiceProvider"
+      ],
+      "aliases": {
+        "ReadingTime": "Z4yed\\ReadingTime\\Facades\\ReadingTime"
+      }
+    }
+  },
   "minimum-stability": "stable",
   "require": {}
 }
